@@ -1,15 +1,15 @@
 hr {
     background-color: green;
     height: 2px;
-    }
-    .b {
-     background-color: plum;
-    }
-    .c {
-        list-style-type: none; 
-        text-align: right;
-    }
-    aside {
+}
+.b {
+    background-color: plum;
+}
+.c {
+    list-style-type: none;
+    text-align: right; 
+}
+aside {
         background-color: aquamarine
-    }
+}
     
