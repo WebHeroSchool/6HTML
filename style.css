@@ -2,14 +2,20 @@ hr {
     background-color: green;
     height: 2px;
     }
-    .b {
-     background-color: plum;
+.b {
+    background-color: plum;
+    font-family: 'Montserrat', sans-serif;
     }
-    .c {
-        list-style-type: none; 
-        text-align: right;
+.c {
+    list-style-type: none; 
+    text-align: right;
     }
-    aside {
-        background-color: aquamarine
+aside {
+    background-color: greenyellow;
     }
-    
+article {
+    font-family: 'Montserrat', sans-serif;
+    }
+h1 {
+    font-family: 'Roboto Slab', serif;
+}
